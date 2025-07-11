@@ -1,0 +1,6 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{G as r,K as s,a as o,I as d,L as m,M as p}from"../chunks/kOMFSVYI.js";import{i as c}from"../chunks/X44vxz54.js";import{A as l}from"../chunks/DxBdEPo5.js";var k=s('<section class="sm:px-4 md:py-14 sm:py-8 text-zinc-900 dark:text-zinc-100 bg-white dark:bg-gradient-to-br dark:from-zinc-900 dark:via-zinc-800 dark:to-zinc-900"><!></section>');function M(i,e){r(e,!1);const t={title:"Multimedia / Broadcasting (MM)",profiles:["Desain Web","Video Editor","Konten Kreator","Jurnalistik","Penyiaran"],description:`
+      Multimedia / Broadcasting (MM) adalah program keahlian yang mempelajari tentang produksi 
+      dan penyiaran media digital. Siswa akan dibekali keterampilan dalam desain web, video editing, 
+      pembuatan konten kreatif, jurnalistik, dan penyiaran. Lulusan MM siap bekerja di industri media 
+      atau membuka usaha sendiri di bidang multimedia.
+    `.trim(),images:[{title:"Produksi Video",desc:"Siswa sedang praktik produksi video",src:"/images/school1.jpg"},{title:"Desain Web Kreatif",desc:"Siswa sedang membuat desain web kreatif",src:"/images/school1.jpg"},{title:"Penyiaran Radio",desc:"Siswa sedang praktik penyiaran radio",src:"/images/school1.jpg"}]};c();var a=k(),n=m(a);l(n,{get contentData(){return t}}),p(a),o(i,a),d()}export{M as component};

@@ -1,0 +1,6 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{G as r,K as n,a as o,I as m,L as d,M as l}from"../chunks/kOMFSVYI.js";import{i as g}from"../chunks/X44vxz54.js";import{A as p}from"../chunks/DxBdEPo5.js";var c=n('<section class="sm:px-4 md:py-14 sm:py-8 text-zinc-900 dark:text-zinc-100 bg-white dark:bg-gradient-to-br dark:from-zinc-900 dark:via-zinc-800 dark:to-zinc-900"><!></section>');function b(i,s){r(s,!1);const t={title:"Desain Komunikasi Visual (DKV)",profiles:["Digital Ilustrasi","Fotografi","Desain Grafis","Videografi / Audio Visual"],description:`
+      Desain Komunikasi Visual (DKV) adalah program keahlian yang mempelajari tentang seni dan 
+      teknologi dalam menciptakan komunikasi visual yang efektif. Siswa akan dibekali keterampilan 
+      dalam desain grafis, ilustrasi digital, fotografi, dan videografi. Lulusan DKV siap bekerja 
+      di industri kreatif atau membuka usaha sendiri di bidang desain.
+    `.trim(),images:[{title:"Desain Grafis",desc:"Siswa sedang membuat desain grafis",src:"/images/school1.jpg"},{title:"Ilustrasi Digital",desc:"Siswa sedang membuat ilustrasi digital",src:"/images/school1.jpg"},{title:"Fotografi Kreatif",desc:"Siswa sedang praktik fotografi kreatif",src:"/images/school1.jpg"}]};g();var a=c(),e=d(a);p(e,{get contentData(){return t}}),l(a),o(i,a),m()}export{b as component};
